@@ -1,4 +1,4 @@
-# Ruleset recipes
+# Repository RulesSet
 Starter rulesets are pre-baked to make it easy to get started with [repository rules](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets/about-rulesets).
 
 ## What is a ruleset?
