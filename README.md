@@ -1,11 +1,10 @@
 # Repository RulesSet
 Starter rulesets are pre-baked to make it easy to get started with [repository rules](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets/about-rulesets).
 
-## What is a ruleset?
-
+## What is a Rule Set?
 A ruleset is a named list of rules that applies to a repository. You can create rulesets to control how people interact with selected branches and tags in a repository. You can control things like who can push commits to a particular branch or who can delete or rename a tag. For example, you could set up a ruleset for your repository's feature branch that requires signed commits and blocks force pushes for all users except repository administrators.
 
-## Get cooking
+## How to Use Rules
 1. Grab a copy of this repo
  - ⬆️ top click `< > Code`
  - Pick your favorite way to clone, like [GitHub CLI](https://cli.github.com/), or download the ZIP.    
